@@ -19,6 +19,7 @@ function header() {
                     </div>
                 </nav>
             </div>
+            <div className="line"></div>
         </div>
     )
 }
